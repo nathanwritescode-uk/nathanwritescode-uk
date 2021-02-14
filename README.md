@@ -10,8 +10,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=Tailwind-CSS&logoColor=white)
 
 ### My goals for the year are:
-- [x] [Version Control with Git](https://www.coursera.org/account/accomplishments/verify/H3HMT5Y6MUU5)
-- [x] [Agile with Atlassian Jira](https://www.coursera.org/account/accomplishments/verify/737WGAFGP2KW)
+- [x] [~~Version Control with Git~~](https://www.coursera.org/account/accomplishments/verify/H3HMT5Y6MUU5)
+- [x] [~~Agile with Atlassian Jira~~](https://www.coursera.org/account/accomplishments/verify/737WGAFGP2KW)
 - [ ] [Become Laravel certified](https://certification.laravel.com/)
 - [ ] [Become an AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/)
 - [ ] [Learn Vue.js](https://vuejs.org/)
