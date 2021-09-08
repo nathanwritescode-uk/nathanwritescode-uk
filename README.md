@@ -14,4 +14,4 @@
 - [x] [~~Agile with Atlassian Jira~~](https://www.coursera.org/account/accomplishments/verify/737WGAFGP2KW)
 - [ ] [Become Laravel certified](https://certification.laravel.com/)
 - [ ] [Become an AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/)
-- [ ] [Learn Vue.js](https://vuejs.org/)
+- [ ] [Learn React](https://reactjs.org/)
