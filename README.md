@@ -15,3 +15,6 @@
 - [ ] [Become Laravel certified](https://certification.laravel.com/)
 - [ ] [Become an AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/)
 - [ ] [Learn React](https://reactjs.org/)
+
+### I'm currently reading:
+- [ ] [Laravel beyond CRUD](https://laravel-beyond-crud.com/)
