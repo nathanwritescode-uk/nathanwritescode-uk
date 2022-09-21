@@ -12,9 +12,9 @@
 ### My goals for the year are:
 - [x] [~~Version Control with Git~~](https://www.coursera.org/account/accomplishments/verify/H3HMT5Y6MUU5)
 - [x] [~~Agile with Atlassian Jira~~](https://www.coursera.org/account/accomplishments/verify/737WGAFGP2KW)
-- [ ] [Become Laravel certified](https://certification.laravel.com/)
+- [x] [Become an AWS Certified Cloud Practitioner](https://www.credly.com/badges/5d6bbb20-302b-4a07-ab7b-8b86a9a9ba32/public_url)
 - [ ] [Become an AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/)
-- [ ] [Learn React](https://reactjs.org/)
+- [ ] [Become Laravel certified](https://certification.laravel.com/)
 
 ### I'm currently reading/watching:
 - [ ] [Test-Driven Laravel](https://course.testdrivenlaravel.com/)
