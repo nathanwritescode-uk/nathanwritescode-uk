@@ -14,7 +14,6 @@
 - [x] [~~Agile with Atlassian Jira~~](https://www.coursera.org/account/accomplishments/verify/737WGAFGP2KW)
 - [x] [~~Become an AWS Certified Cloud Practitioner~~](https://www.credly.com/badges/5d6bbb20-302b-4a07-ab7b-8b86a9a9ba32/public_url)
 - [ ] [Become an AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/)
-- [ ] [Become Laravel certified](https://certification.laravel.com/)
 
 ### I'm currently reading/watching:
 - [ ] [Test-Driven Laravel](https://course.testdrivenlaravel.com/)
