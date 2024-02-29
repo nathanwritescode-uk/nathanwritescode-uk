@@ -9,12 +9,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=Tailwind-CSS&logoColor=white)
 
-### My goals for the year are:
-- [x] [~~Version Control with Git~~](https://www.coursera.org/account/accomplishments/verify/H3HMT5Y6MUU5)
-- [x] [~~Agile with Atlassian Jira~~](https://www.coursera.org/account/accomplishments/verify/737WGAFGP2KW)
-- [x] [~~Become an AWS Certified Cloud Practitioner~~](https://www.credly.com/badges/5d6bbb20-302b-4a07-ab7b-8b86a9a9ba32/public_url)
-- [ ] [Become an AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/)
-
-### I'm currently reading/watching:
-- [ ] [Test-Driven Laravel](https://course.testdrivenlaravel.com/)
-- [ ] [Laravel beyond CRUD](https://laravel-beyond-crud.com/)
+### My goals for 2024 are:
+- [ ] [Learn Vue](https://vuejs.org/) (Finally!)
+- [ ] [Become an AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+- [ ] **Read 5 new books:**
+    - [ ] [Mastering Laravel Validation Rules](https://masteringlaravel.io/laravel-validation-book) (This one has been sat on my bookshelf for a year or so now and I've promised Joel I'll finally read it :grinning:) 
