@@ -13,4 +13,5 @@
 - [ ] [Learn Vue](https://vuejs.org/) (Finally!)
 - [ ] [Become an AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 - [ ] **Read 5 new books:**
-    - [ ] [Mastering Laravel Validation Rules](https://masteringlaravel.io/laravel-validation-book) (This one has been sat on my bookshelf for a year or so now and I've promised Joel I'll finally read it :grinning:) 
+    - [x] [Mastering Laravel Validation Rules](https://masteringlaravel.io/laravel-validation-book) (This one has been sat on my bookshelf for a year or so now and I've promised Joel I'll finally read it :grinning:)
+    - [ ] [Docs for Developers: An Engineer’s Field Guide to Technical Writing](https://docsfordevelopers.com/)
