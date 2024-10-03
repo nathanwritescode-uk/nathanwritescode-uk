@@ -1,4 +1,5 @@
 # ![Waving Hand](waving-hand.gif) Hi there, I'm Nathan
+I am a seasoned software engineer with over a decade of experience specialising in PHP and Laravel. My career began in 2010 with WordPress development and has since evolved into architecting complex backend solutions, specifically, utilising Laravel. From freelancing to leading development teams, I have crafted and optimised systems that manage multi-millions in revenue.
 
 ## Technologies I Use
 
@@ -27,9 +28,5 @@
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/Certification-AWS%20Certified%20Cloud%20Practitioner-informational?style=flat&logo=amazon-aws&color=FF9900)
 ![CircleCI Associate Developer](https://img.shields.io/badge/Certification-CircleCI%20Associate%20Developer-informational?style=flat&logo=circleci&color=343434)
 ![Agile with Atlassian Jira](https://img.shields.io/badge/Certification-Agile%20with%20Atlassian%20Jira-informational?style=flat&logo=jira&color=0052CC)
-
-## About Me
-
-I am a seasoned software engineer with over a decade of experience specialising in PHP and Laravel. My career began in 2010 with WordPress development and has since evolved into architecting complex backend solutions, specifically, utilising Laravel. From freelancing to leading development teams, I have crafted and optimised systems that manage multi-millions in revenue.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nathanwritescode-uk&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
