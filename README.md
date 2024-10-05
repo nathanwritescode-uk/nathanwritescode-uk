@@ -7,6 +7,7 @@ I am a seasoned software engineer with over a decade of experience specialising 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
 ![Vue](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&color=4FC08D)
+![Nuxt](https://img.shields.io/badge/Framework-Nuxt-informational?style=flat&logo=nuxt.js&color=00C58E)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=4479A1)
 
 ## I Typically Work With
